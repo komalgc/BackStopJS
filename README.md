@@ -131,7 +131,6 @@ Example configuration in `backstop.json`:
 ---
 
 
-
 ## Contact
 
 For questions or support, contact [Komal Chowdhary](mailto:your-email@example.com).
